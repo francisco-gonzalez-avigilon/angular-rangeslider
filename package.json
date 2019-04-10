@@ -1,0 +1,27 @@
+{
+  "name": "angular-rangeslider",
+  "version": "0.0.13",
+  "description": "Angular RangeSlider is a directive that creates an interactive slider that allows a user to change model values.",
+  "main": "angular.rangeSlider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisco-gonzalez-avigilon/angular-rangeslider.git"
+  },
+  "keywords": [
+    "slider",
+    "angular"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francisco-gonzalez-avigilon/angular-rangeslider/issues"
+  },
+  "homepage": "https://github.com/francisco-gonzalez-avigilon/angular-rangeslider#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": "^2.1.4"
+  }
+}
